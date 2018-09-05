@@ -9,8 +9,6 @@ numOfNonPrimes_int = 0
 numOfNums_int = 0
 
 
-print(" _Primes_")
-
 for line_str in data:
     #print( "line_str : ",line_str)
     numOfNums_int += 1
